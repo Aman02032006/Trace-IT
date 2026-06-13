@@ -1,0 +1,13 @@
+# Compiled executables and objects
+*.exe
+*.o
+*.obj
+
+# Output media (images, videos)
+*.ppm
+*.mp4
+/PPM Frames/
+
+# IDE and OS files
+.vscode/
+.DS_Store
