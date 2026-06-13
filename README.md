@@ -15,6 +15,8 @@ A multi-threaded CPU-based 3D ray tracer written in C++ from scratch. This proje
 - **Camera:** Fully configurable camera including field of view (FOV), aspect ratio, position (`lookfrom`, `lookat`), and multi-sampled anti-aliasing (MSAA).
 - **Animation Engine:** Automatically loops through mathematical functions to update the scene, renders sequential `.ppm` frames, and hooks into `FFmpeg` to stitch them into a smooth 30fps `.mp4` video.
 
+https://github.com/user-attachments/assets/371547e9-83cd-4eba-8644-dafdabecda60
+
 ## Project Structure
 
 - `Headers/` - Contains the core mathematical and logic structures of the ray tracer.
